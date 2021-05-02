@@ -5,4 +5,4 @@ To deploy CodePipeline.
 * `npm install`
 * `cdk deploy`
 
-[description](https://figmentresearch.com/aws/codepipeline)
+[description](https://note.figmentresearch.com/aws/codepipeline)
